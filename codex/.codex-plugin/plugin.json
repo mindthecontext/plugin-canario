@@ -1,0 +1,20 @@
+{
+  "name": "canario",
+  "version": "0.2.0",
+  "description": "Saber mínimo que existe para comprobar que el mecanismo del catálogo sigue funcionando: un marketplace que apunta por git-subdir a un repositorio distinto, en Claude Code y en Codex.",
+  "author": {
+    "name": "MindTheContext"
+  },
+  "repository": "https://github.com/mindthecontext/mtc-canario",
+  "keywords": [
+    "canary",
+    "marketplace",
+    "infrastructure"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Canario",
+    "shortDescription": "Comprueba que el catálogo resuelve plugins desde otro repositorio",
+    "longDescription": "No responde sobre ningún dominio. Existe para que, si Claude Code o Codex cambian cómo resuelven un plugin traído por git-subdir, se rompa este saber y no uno real."
+  }
+}
