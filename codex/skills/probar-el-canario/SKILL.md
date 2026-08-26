@@ -1,5 +1,5 @@
 ---
-name: canario
+name: probar-el-canario
 description: Comprueba que este plugin se instaló y se activa correctamente — «prueba el canario», «¿está vivo el canario?», «comprobar el catálogo», «canario». Existe sólo para verificar el mecanismo de distribución del catálogo; no responde sobre ningún dominio.
 ---
 
