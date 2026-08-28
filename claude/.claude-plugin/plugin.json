@@ -1,15 +1,15 @@
 {
   "name": "canario",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "description": "Saber mínimo que existe para comprobar que el mecanismo del catálogo sigue funcionando: un marketplace que apunta por git-subdir a un repositorio distinto, en Claude Code y en Codex.",
   "author": {
     "name": "MindTheContext"
   },
-  "repository": "https://github.com/mindthecontext/mtc-canario",
+  "repository": "https://github.com/mindthecontext/saber-canario",
   "keywords": [
     "canary",
     "marketplace",
     "infrastructure"
   ],
-  "homepage": "https://github.com/mindthecontext/mtc-canario"
+  "homepage": "https://github.com/mindthecontext/saber-canario"
 }
