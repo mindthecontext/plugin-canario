@@ -1,6 +1,6 @@
 {
   "name": "canario-staging",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Saber mínimo que existe para comprobar que el mecanismo del catálogo sigue funcionando: un marketplace que apunta por git-subdir a un repositorio distinto, en Claude Code y en Codex.",
   "author": {
     "name": "MindTheContext"
